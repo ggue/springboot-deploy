@@ -1,5 +1,5 @@
 version: 0.0
 os: linux
 files:
-  - source:  /https://github.com/ggue/springboot-deploy/blob/master/appspec.yml
+  - source:  /
     destination: /home/ec2-user/build/
